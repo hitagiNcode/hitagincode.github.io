@@ -1,19 +1,7 @@
-  ## English:
-  I'm planning to have various website demos on github pages this is my master page.
-  Yeah, it is just a text for now.
-  You can find my pages in the links below.
-  
+ <h1 align="center">Hey <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" alt="unity" width="40" height="40"/>, I made this portfolio page with Flutter.</h1>
+<h3 align="center">📫 Contact me if you want a portfolio like this:  **work@barisgunenc.dev**</h3>
+
  -----------------------------------------------------------------------------------------
- 
-  ## Türkçe: 
-  Bu sayfa üstünde bir çok farklı sayfanın demosunu yönetmeyi düşüyorum.
-  Bu sayfa şimdilik sadece bir text ama ileride değiştireceğim.
-  Aşşağıdaki Linklerden şuan olan sayfalara ulababişirsiniz.
+ <h1 align="center">Merhaba<img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" alt="unity" width="40" height="40"/>, bu portföy sayfasını Flutter ile yaptım.</h1>
+<h3 align="center">📫 Böyle bir portföy istiyorsanız bana ulaşın:  **work@barisgunenc.dev**</h3>
   
- -----------------------------------------------------------------------------------------
- 
-  ## Linkler:
-  
-  1) [http://hitagincode.github.io/punipuni-site/](http://hitagincode.github.io/punipuni-site/) 
-    
-  2)XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
